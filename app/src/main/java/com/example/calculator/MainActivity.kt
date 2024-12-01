@@ -50,6 +50,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+//hello
 
 fun removeEnd(text : String): String {
     val res = text.substring(0,text.length-1)
